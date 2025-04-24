@@ -752,8 +752,8 @@
                 "PRIORITY": "Priorität",
                 "GALLERY": "Galerie",
                 "NO_ATTACHMENTS": "Keine Anhänge",
-                "LINKED_REPORTS": "Verknüpfte Berichte",
-                "NO_LINKED_REPORTS": "Keine verknüpften Berichte",
+                "LINKED_REPORTS": "Verknüpfte Ermittlungen",
+                "NO_LINKED_REPORTS": "Keine verknüpften Ermittlungen",
                 "SELECT_VEHICLE": "Fahrzeug auswählen",
                 "NO_VEHICLE_SELECTED": "Kein Fahrzeug gewählt",
                 "SELECT_PERSON": "Person auswählen",
@@ -1054,7 +1054,7 @@
                 "TITLE": "Startseite",
                 "CREATE": "Erstellen",
 
-                "RECENT_REPORTS": "Neueste Berichte",
+                "RECENT_REPORTS": "Neueste Ermittlungen",
                 "REPORT_FOOTER": "{timestamp} - {author}",
                 "BULLETIN_BOARD": "Schwarzes Brett",
                 "PIN": "Anheften",
@@ -1125,8 +1125,8 @@
                 "NOTES_PLACEHOLDER": "Notizen hier eingeben...",
                 "DIAGNOSES_DISEASES": "Diagnosen / Krankheiten",
                 "NO_DIAGNOSES": "Keine Diagnosen / Krankheiten",
-                "REPORTS": "Berichte",
-                "NO_REPORTS": "Keine Berichte",
+                "REPORTS": "Ermittlungen",
+                "NO_REPORTS": "Keine Ermittlungen",
 
                 "ADD_AVATAR": {
                     "TITLE": "Avatar hinzufügen",
